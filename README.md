@@ -1,5 +1,5 @@
 # Demo
-Click this link [Demo](http://www.koablogdemo.info/).
+Click this link [Demo](http://lijing.iok.la/).
 
 <br/>
 
